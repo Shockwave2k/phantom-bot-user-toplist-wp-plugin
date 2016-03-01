@@ -19,9 +19,11 @@ This Plugin will help you to add a Top User list to your Wordpress Page.
 ## Configuration Panel
 ### The Configuration should look like this:
 
-Phantom Bot IP:      192.168.0.1 (your Phantom Bot IP Address)
-Phantom Bot oauth:   oauth:xxxxxxxxxxxxxxxxxxxxxxxxx
-Banned Users:        Bot1,Bot2,Bot3,... (this will remove unwanted users like your own account from the toplist)
+Phantom Bot IP:      ```192.168.0.1``` (your Phantom Bot IP Address)
+
+Phantom Bot oauth:   ```oauth:xxxxxxxxxxxxxxxxxxxxxxxxx```
+
+Banned Users:        ```Bot1,Bot2,Bot3,...``` (this will remove unwanted users like your own account from the toplist)
 
 
 
