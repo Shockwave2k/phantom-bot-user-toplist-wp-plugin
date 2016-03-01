@@ -7,7 +7,7 @@ This Plugin will help you to add a Top User list to your Wordpress Page.
 
 ## Shortcodes
 
-#### Just ass one or more shortcodes to your Wordpress Page:
+#### Just add one or more shortcodes to your Wordpress Page:
 
 ```[phantom_bot_points value=10]```
 
